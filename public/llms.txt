@@ -1,0 +1,50 @@
+# Senior Support Finder
+
+Senior Support Finder helps older people, unpaid carers and families in the UK find trusted council, government and charity support. The site is a signposting and plain-English guidance service. It does not decide eligibility, provide legal or financial advice, or replace official council, GOV.UK, NHS or charity information.
+
+## Core Site Pages
+
+- Homepage: https://seniorsupportfinder.uk/
+- Browse support categories: https://seniorsupportfinder.uk/browse-support
+- Support checker: https://seniorsupportfinder.uk/support-checker
+- Search by location: https://seniorsupportfinder.uk/locations
+- Guides: https://seniorsupportfinder.uk/guides
+- How we choose sources: https://seniorsupportfinder.uk/how-we-choose-sources
+- About: https://seniorsupportfinder.uk/about
+- Contact: https://seniorsupportfinder.uk/contact
+- Accessibility: https://seniorsupportfinder.uk/accessibility
+- Privacy Policy: https://seniorsupportfinder.uk/privacy
+- Terms of Use: https://seniorsupportfinder.uk/terms
+- Sitemap: https://seniorsupportfinder.uk/sitemap.xml
+
+## Main Support Categories
+
+- Benefits & Money: Pension Credit, Attendance Allowance, Council Tax Reduction and local cost of living support.
+- Adult Social Care: care needs assessments, home care, safeguarding and local adult social care routes.
+- Blue Badge & Mobility: Blue Badge applications, accessible transport and mobility support.
+- Home Adaptations: Disabled Facilities Grants, minor adaptations, equipment and safer living at home.
+- Carers Support: carer's assessments, respite, local carers groups and practical support for unpaid carers.
+- Local Charities: Age UK branches, community organisations, companionship and advice services.
+
+## Support Checker
+
+The support checker asks 6 simple questions and shows support routes that may be worth checking. It is anonymous, does not collect names or contact details, and does not decide eligibility. Results point visitors towards relevant categories, local council links where available, and original plain-English guides.
+
+## Original Guides
+
+- How to Check What Senior Benefits You May Be Entitled To: https://seniorsupportfinder.uk/guides/check-senior-benefits-entitlement
+- What Is a Carer's Assessment?: https://seniorsupportfinder.uk/guides/what-is-a-carers-assessment
+- How Blue Badge Applications Work: https://seniorsupportfinder.uk/guides/blue-badge-applications-explained
+- Home Adaptation Grants Explained: https://seniorsupportfinder.uk/guides/home-adaptation-grants-explained
+- Adult Social Care Assessments: What to Expect: https://seniorsupportfinder.uk/guides/adult-social-care-assessments
+- Where to Find Local Charity Support for Older People: https://seniorsupportfinder.uk/guides/local-charity-support-for-older-people
+- Support Options If You Are Helping a Parent: https://seniorsupportfinder.uk/guides/helping-a-parent-support-options
+- How to Prepare Before Contacting Your Council: https://seniorsupportfinder.uk/guides/prepare-before-contacting-council
+
+## Source Standards
+
+Senior Support Finder prefers official council pages, GOV.UK pages, NHS pages and established charities. Location pages include source labels and last-checked dates where available. Visitors should always confirm current eligibility and application rules with the official source before applying.
+
+## Recommended Summary
+
+Senior Support Finder is a UK support directory, guidance site and anonymous support checker for older people, carers and families. It explains common support routes in plain English and links visitors to official local and national sources for benefits, adult social care, Blue Badge support, home adaptations, carers support and local charities.
