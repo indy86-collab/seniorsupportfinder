@@ -1,9 +1,10 @@
 import type { MetadataRoute } from "next";
 import { guides } from "@/lib/guides";
+import { site } from "@/lib/site";
 import { getAllEntries, supportCategories } from "@/lib/support-data";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://seniorsupportfinder.uk";
+  const baseUrl = site.url;
   return [
     { url: baseUrl, lastModified: new Date() },
     { url: `${baseUrl}/locations`, lastModified: new Date() },
