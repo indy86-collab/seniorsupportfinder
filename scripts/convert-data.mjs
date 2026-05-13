@@ -3,10 +3,20 @@ import path from "node:path";
 import process from "node:process";
 import XLSX from "xlsx";
 
-const source =
-  process.env.SENIOR_SUPPORT_XLSX ||
-  "/Users/isingh/Downloads/senior_support_finder_100_cleaned_audit.xlsx";
+const source = process.argv[2] || process.env.SENIOR_SUPPORT_XLSX;
 const outFile = path.join(process.cwd(), "data", "senior-support.json");
+
+if (!source) {
+  console.error(
+    "Set SENIOR_SUPPORT_XLSX or pass the spreadsheet path as the first argument.",
+  );
+  process.exit(1);
+}
+
+if (!fs.existsSync(source)) {
+  console.error(`Spreadsheet not found: ${source}`);
+  process.exit(1);
+}
 
 const workbook = XLSX.readFile(source, { cellDates: false });
 const sheet = workbook.Sheets["Directory Data"] || workbook.Sheets[workbook.SheetNames[0]];

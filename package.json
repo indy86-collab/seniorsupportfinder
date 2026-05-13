@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev",
     "data:convert": "node scripts/convert-data.mjs",
-    "prebuild": "npm run data:convert",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
